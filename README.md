@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🚀 B.Tech student passionate about Web Development, DSA & creative tech.  <br>⚡ Building with JavaScript, React & C++  <br>🎨 Developer by logic, artist by instinct.  <br>📍 Exploring ideas, shipping projects, learning every day.
 
 
